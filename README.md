@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,29 +8,21 @@
     <style>
         body {
             font-family: 'Georgia', serif;
-            background-color: #b3e5c7; /* Pastel green background */
+            background-color: #f4f0e6; /* Background inspired by old book pages */
             margin: 0;
             padding: 0;
             color: #333;
         }
         header {
-            background-color: #b3e5c7; /* Same pastel green for the header */
-            color: #333;
+            background-color: #8b4513; /* Leather-like color for a book-inspired feel */
+            color: #fff;
             padding: 20px;
             text-align: center;
         }
         header h1 {
-            font-size: 64px; /* Increased font size for the title */
+            font-size: 48px;
             margin: 0;
             font-weight: bold;
-        }
-        .logo-container {
-            text-align: center;
-            margin: 20px;
-        }
-        .logo-container img {
-            width: 200px; /* Adjust logo size if needed */
-            height: auto;
         }
         .intro {
             text-align: center;
@@ -48,7 +41,7 @@
             text-align: center;
         }
         th {
-            background-color: #388e3c; /* Darker green for table headers */
+            background-color: #8b4513;
             color: white;
             font-weight: bold;
         }
@@ -56,10 +49,10 @@
             background-color: #f9f9f9;
         }
         tr:hover {
-            background-color: #e8f5e9; /* Light green hover effect for rows */
+            background-color: #f1f1f1;
         }
         footer {
-            background-color: #388e3c; /* Dark green for footer */
+            background-color: #8b4513;
             color: #fff;
             text-align: center;
             padding: 10px 0;
@@ -74,10 +67,6 @@
 <header>
     <h1>Planet of Books</h1>
 </header>
-
-<div class="logo-container">
-    <img src="PlanetLogo.png" alt="Planet of Books Logo">
-</div>
 
 <div class="intro">
     <p>Welcome to <strong>Planet of Books</strong>, your ultimate destination for all things literary! Whether you are a casual reader, a student, or a book collector, we have a wide selection of books and reading accessories to meet your needs. Explore our collection and dive into the world of words. Happy reading!</p>
